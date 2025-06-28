@@ -35,7 +35,7 @@ function App() {
       
        
 
-       {/* <BrowserRouter>
+      <BrowserRouter>
        <ToastContainer/>
        <Routes>
            <Route path='/' element={<Home/>}/>
@@ -52,16 +52,16 @@ function App() {
 
        </Routes>
        
-       </BrowserRouter> */}
+       </BrowserRouter> 
 
 
 
 
 
 
-     {/* <Anime/> */}
+  
 
-     <AnmStructr/>
+
 
 
 
